@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature
+# Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature
 
 
 This repository contains the data and code for paper:
