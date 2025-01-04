@@ -5,7 +5,7 @@
 
 This repository contains the data and code for paper:
 
-> Wenhao Zhang, Matias Quintana, Clayton Miller
+> Wenhao Zhang, Matias Quintana, Clayton Miller.
 > *Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature*. 
 > Energy and Buildings.
 > https://doi.org/10.1016/j.enbuild.2024.115247.
