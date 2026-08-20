@@ -1,4 +1,4 @@
-# Recommender systems and RL for human–building interaction
+# Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.enbuild.2024.115247-blue)](https://doi.org/10.1016/j.enbuild.2024.115247)
 [![arXiv](https://img.shields.io/badge/arXiv-2411.08734-b31b1b)](https://arxiv.org/abs/2411.08734)
